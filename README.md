@@ -11,7 +11,7 @@ THE SOURCE's SOURCE's SOURCE SOURCE: imagine all the people, searching for the s
 
 psueodocododo
 ==================
-Ok, these packages just contain various encoding-decodings of the same algorithm -- that for a cryptographically-free printing press.  Not just physical-world-literal mind you; all-worlds-in-WORLD-literal -- that is, this is conceivable encode-decodable in any language (given enough poly-exp time -- that is a measure in poly-exp SPACE).
+Ok, these packages just contain various encoding-decodings of the same algorithm -- that, for a cryptographically-free printing press.  Not just physical-world-literal mind you; all-worlds-in-WORLD-literal -- that is, this is conceivable encode-decodable in any language (given enough poly-exp time -- that is a measure in poly-exp SPACE).
 
 Let it Be.  Let it be.  Let IT be.  let us be.  Let them be.  Let they be.  Let their be.  Let theree be bees to buzz to the bee that was the hive that hived the hive that buzzed the buzz that hived the last hive on hive-hivington's grand buzzatorium.
 
