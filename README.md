@@ -15,5 +15,17 @@ Ok, these packages just contain various encoding-decodings of the same algorithm
 
 Let it Be.  Let it be.  Let IT be.  let us be.  Let them be.  Let they be.  Let their be.  Let theree be bees to buzz to the bee that was the hive that hived the hive that buzzed the buzz that hived the last hive on hive-hivington's grand buzzatorium.
 
-This is an auto-tuner's auto-tuner ad-inf.  It will be if we Let IT Be.  
+furture-past-code
+
+{=}{}================={{==}}=}
+
+This is an auto-tuner's auto-tuner ad-inf.  Anything that can be tuned by hand can be auto-tuned.  Think about that. Everything.  It will be if we Let IT Be. 
+
+Everything may include Finance.
+Everything may include Industry.
+Everything may include Fashion.
+Everything may include Agriculture.
+Everything may not include ART.
+Everything may include X not in ART
+
 
